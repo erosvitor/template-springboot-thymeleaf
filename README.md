@@ -1,5 +1,5 @@
 ## Sobre
-Template de um projeto Spring Boot e Thymeleaf para cadastrar contatos.
+Projeto Spring Boot e Thymeleaf para cadastrar contatos.
 
 ## Requisitos
 * JDK 17
